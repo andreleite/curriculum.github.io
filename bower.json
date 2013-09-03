@@ -1,0 +1,19 @@
+{
+  "name": "andre.io",
+  "version": "0.0.1",
+  "authors": [
+    "André Leite <andre@andre.io>"
+  ],
+  "description": "Curriculum de André Leite",
+  "main": "index.html",
+  "keywords": [
+    "curriculum"
+  ],
+  "license": "MIT",
+  "homepage": "http://andre.io/",
+  "private": true,
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "less": "~1.2.21"
+  }
+}

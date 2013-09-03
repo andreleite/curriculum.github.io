@@ -1,0 +1,24 @@
+{
+  "name": "andre.io",
+  "version": "0.0.1",
+  "description": "Curriculum de André Leite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/andreleite/andreleite.github.io"
+  },
+  "keywords": [
+    "curriculum"
+  ],
+  "author": "André Leite <andre@andre.io>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/andreleite/andreleite.github.io/issues"
+  },
+  "dependencies": {
+    "express": "~3.3.8"
+  }
+}
